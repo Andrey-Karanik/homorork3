@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_trip_fragment_title">Editing</string>
+    <string name="trip_fragment_title">Trips</string>
+    <string name="event_fragment_title">Events</string>
+    <string name="profile_fragment_title">Profile</string>
+    <string name="default_toolbar_title">Title</string>
+</resources>
